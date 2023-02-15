@@ -98,9 +98,9 @@ while x == 'Y':
     print("Kembalian\t: %.0f" % (duitcustomer - subjumlahjumlah))
 
     print('\n\n')
-    print("\tVILLA TGR REGENCY 0215535545")
-    print("  VILLA TANGERANG REGENCY BLOK EE 03, PERIUK")
-    print("      KEC. PERIUK KOTA TANGERANG, 15131")
+    print("\tVILLA DKI JAKARTA 0316835795")
+    print("  VILLA YOGYAKARTA BANDUNG BLOK BB 07, BINONG")
+    print("      KEC. BINONG KOTA YOGYAKARTA, 29212")
     print("------------------------------------------------")
     print('''
 Jmlh.   Nama Barang                        Harga
